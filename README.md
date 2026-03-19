@@ -259,8 +259,7 @@ http://localhost:8501
 
 ## 👥 Contributors
 
-* Your Name
-* Team Members
+* Mohit Marwah
 
 ---
 
